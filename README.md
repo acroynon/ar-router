@@ -1,4 +1,4 @@
-# Royter
+# AR-Router
 
 Simple url router, to create API endpoints and server files and static folders, made in Node.JS.
 
