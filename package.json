@@ -11,5 +11,10 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acroynon/ar-router"
+  },
+  "keywords": ["router", "api"]
 }
