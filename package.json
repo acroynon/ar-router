@@ -1,7 +1,7 @@
 {
   "name": "ar-router",
   "version": "1.0.0",
-  "description": "A simple router that isn't dependent on any other framework",
+  "description": "A simple url router to serve api, files, and static folders",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
