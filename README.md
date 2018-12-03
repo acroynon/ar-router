@@ -36,7 +36,7 @@ router.register({
 
 	path: "/api/something",
 	callback: function(routeParams){
-		return "This will get returned as JSON
+		return "This will get returned as JSON";
 	},
 
 });
